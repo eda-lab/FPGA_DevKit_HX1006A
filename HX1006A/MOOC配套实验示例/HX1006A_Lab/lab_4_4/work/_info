@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/programs/intelFPGA/18.1/modelsim_ase/win32aloem
+vseq_detect
+Z0 !s110 1572424978
+!i10b 1
+!s100 PERdG;JILJI`z1UMheC1b0
+I1LFF79_?2_XPLU1j2S]WO2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/data/FPGA/EDA_exp/exp4_4
+w1572423056
+8F:/data/FPGA/EDA_exp/exp4_4/seq_detect.v
+FF:/data/FPGA/EDA_exp/exp4_4/seq_detect.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1572424978.000000
+!s107 F:/data/FPGA/EDA_exp/exp4_4/seq_detect.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/data/FPGA/EDA_exp/exp4_4/seq_detect.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vseq_generator
+Z7 !s110 1572424979
+!i10b 1
+!s100 [[`izGbeFCaPVSPcCF;DC1
+IiZB:db:n<=;:k9ljSFD<g2
+R1
+R2
+w1572424650
+8F:\data\FPGA\EDA_exp\exp4_4\seq_generator.v
+FF:\data\FPGA\EDA_exp\exp4_4\seq_generator.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1572424979.000000
+!s107 F:\data\FPGA\EDA_exp\exp4_4\seq_generator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\data\FPGA\EDA_exp\exp4_4\seq_generator.v|
+!i113 1
+R5
+R6
+vseq_rd
+R0
+!i10b 1
+!s100 Nh2G2G@Q@CG6A:DHOch3H3
+IC^:T6UKKK<^;eCcen<;nF2
+R1
+R2
+w1572423858
+8F:/data/FPGA/EDA_exp/exp4_4/seq_rd.v
+FF:/data/FPGA/EDA_exp/exp4_4/seq_rd.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 F:/data/FPGA/EDA_exp/exp4_4/seq_rd.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/data/FPGA/EDA_exp/exp4_4/seq_rd.v|
+!i113 1
+R5
+R6
+vseq_tb
+R7
+!i10b 1
+!s100 eU3OC[A_e=0RGJ@adHD?b0
+IfaZFj[P^JBbn1Dj>z>=zK1
+R1
+R2
+w1572424967
+8F:\data\FPGA\EDA_exp\exp4_4\seq_tb.v
+FF:\data\FPGA\EDA_exp\exp4_4\seq_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 F:\data\FPGA\EDA_exp\exp4_4\seq_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\data\FPGA\EDA_exp\exp4_4\seq_tb.v|
+!i113 1
+R5
+R6

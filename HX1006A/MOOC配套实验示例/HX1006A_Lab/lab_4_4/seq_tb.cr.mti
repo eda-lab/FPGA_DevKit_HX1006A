@@ -1,0 +1,29 @@
+F:/data/FPGA/EDA_exp/exp4_4/seq_generator.v {1 {vlog -work work -stats=none {F:\data\FPGA\EDA_exp\exp4_4\seq_generator.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module seq_generator
+
+Top level modules:
+	seq_generator
+
+} {} {}} F:/data/FPGA/EDA_exp/exp4_4/seq_detect.v {1 {vlog -work work -stats=none F:/data/FPGA/EDA_exp/exp4_4/seq_detect.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module seq_detect
+
+Top level modules:
+	seq_detect
+
+} {} {}} F:/data/FPGA/EDA_exp/exp4_4/seq_rd.v {1 {vlog -work work -stats=none F:/data/FPGA/EDA_exp/exp4_4/seq_rd.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module seq_rd
+
+Top level modules:
+	seq_rd
+
+} {} {}} F:/data/FPGA/EDA_exp/exp4_4/seq_tb.v {1 {vlog -work work -stats=none {F:\data\FPGA\EDA_exp\exp4_4\seq_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module seq_tb
+
+Top level modules:
+	seq_tb
+
+} {} {}}
