@@ -88,7 +88,7 @@ begin
 					TO	<=	11'H6C0;	
 					CODE <= 1;
 					H <= 1;											
-				end		
+				end
 		default : 
 				begin
 					TO	<=	11'H6C0;	
